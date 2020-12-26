@@ -1,5 +1,7 @@
 # connect
 
+オンライン飲み会のイベントを管理することができるWEBシステム
+
 ## Build Setup
 
 ```bash
